@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+    <dc:title>Canti scelti: batracomiomachia ed estratto di paralipomeni</dc:title>
+    <dc:creator>Leopardi, Giacomo</dc:creator>
+    <dc:subject>Letteratura italiana, poesia</dc:subject>
+    <dc:subject>http://id.loc.gov/authorities/childrensSubjects/sj2020050014</dc:subject>
+    <dc:subject xsi:type="dcterms:DDC">82-1</dc:subject>
+    <dc:description>Edizione dei Canti scelti e commentati ad uso delle scuole secondarie</dc:description>
+    <dc:publisher>Barbera, Gaspero</dc:publisher>
+    <dc:contributor>Fornaciari, Raffaello</dc:contributor>
+    <dcterms:created xsi:type="dcterms:W3CDTF">eg 1924</dcterms:created>
+    <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+    <dc:format xsi:type="dcterms:IMT">19 cm</dc:format>
+    <dcterms:extent>XVI, 240 p.</dcterms:extent>
+    <dcterms:medium>Libro</dcterms:medium>
+    <dc:identifier xsi:type="dcterms:URI">http://id.bnportugal.gov.pt/bib/rnod/297112</dc:identifier>
+    <dc:language xsi:type="dcterms:ISO639-2">ita</dc:language>
+    <dc:coverage xsi:type="dcterms:TGN">Firenze</dc:coverage>
+    <dc:coverage xsi:type="dcterms:Period">1800</dc:coverage>
+    <dcterms:isVersionOf xsi:type="dcterms:VIAF">Canti</dcterms:isVersionOf>
+    <dc:rights xsi:type="dcterms:URI">http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+    <dcterms:educationlevel>Studenti scuola secondaria</dcterms:educationlevel>
+    <dcterms:provenance>Conservato in Casa Fernando Pessoa in Portogallo</dcterms:provenance>
+    <dcterms:rightsholder>https://www.casafernandopessoa.pt/</dcterms:rightsholder>
+    <dcterms:rightsholder>http://rnod.bnportugal.gov.pt/rnod</dcterms:rightsholder>
+
+</metadata>

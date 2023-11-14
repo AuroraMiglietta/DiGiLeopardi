@@ -1,0 +1,157 @@
+header{
+	background-color: #ffffff;
+}
+.testata {
+	margin-left: 5%;
+}
+h1  {
+	background-color: #white;
+	padding-left: 40px;
+	text-align: center;
+	font-family: 'Brush Script MT', cursive;
+	font-size: 70px; 
+}
+.subtitle{
+	text-align: center;
+}
+
+nav{
+	background-color: #00aaff;
+    color: white;
+    padding: 20px;
+    word-spacing: 30px;
+}
+.bottone{
+	text-decoration: none;
+	color: white;
+}
+.bottone:hover {
+	text-decoration: none;
+	color:black;
+	background-color: white;
+	padding: 7px;
+}
+.pagina-attiva{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+
+div.intro{
+    width: 100%;
+    background-image: url("../img/leopardi.jpg");
+}
+div.crediti {
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding: 3px;
+	word-spacing: 10px;
+}
+
+footer{
+    text-align: center;
+    word-spacing: 2px;
+}
+.click{
+	color: black;
+}
+.dh{
+	background-color: black;
+}
+
+/* Image Hover Overlay: Fade in a box */
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #00aaff;
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+}
+.alternative{
+	text-align: center;
+	padding:20px;
+}
+.digil{
+	text-align: center;
+	padding: 9px;
+}
+
+/* Selettore universale per lo stile delle card. Include nelle dimensioni h e w padding e bordi */
+* {
+  box-sizing: border-box;
+}  
+.column {
+  float: left;
+  width: 50%;
+  padding: 0 10px;
+} 
+.row {margin: 0 -5px;}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+
+/* Responsive columns - one column layout (vertical) on small screens */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+
+.spiega{
+	background-color: #e6f7ff;
+	margin: 400px;
+	width: 600px;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+
+
+
+
+

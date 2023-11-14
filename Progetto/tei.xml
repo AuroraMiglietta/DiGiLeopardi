@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Canti (ed. Napoli 1835)</title>
+                <author>Giacomo Leopardi</author>
+            </titleStmt>
+            <extent>170 Kb in UTF-8</extent>
+            <publicationStmt>
+                <publisher>Biblioteca Italiana</publisher>
+                <pubPlace>Roma</pubPlace>
+                <date>2004</date>
+                <idno>bibit000469</idno>
+                <availability>
+                    <p>Libero accesso per uso personale o scientifico. Uso commerciale vietato.</p>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+            <title>Collezione BibIt</title>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Tutte le opere</title>
+                    <author xml:id="LG">Leopardi, Giacomo</author>
+                    <editor xml:id="FL">Felici, Lucio</editor>
+                    <publisher>Lexis Progetti Editoriali</publisher>
+                    <pubPlace>Roma</pubPlace>
+                    <date>1998</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc> 
+    </teiHeader>
+        <text>
+            <front>
+                <div1 type="introduzione">
+                    <head>NOTIZIA INTORNO ALLE EDIZIONI DI QUESTI CANTI.</head>
+                        <p>I due primi furono pubblicati in Roma nel 1818, con una lettera a Vincenzo Monti. Il terzo, con una lettera al conte Leonardo Trissino, nel 1820 in Bologna. Dieci Canti, cioè i nove primi e il diciottesimo, in Bologna nel 1824, con ampie Annotazioni, e copia d'esempi antichi, in difesa di voci e maniere dei medesimi Canti accusate di novità. Altri Canti pure in Bologna nel 1826: i quali coi sopradetti dieci, e con altri nuovi, in tutto ventitre, furono dati ultimamente dall'autore in Firenze nel 1831. Diverse ristampe di questi Canti, o tutti o parte, fatte dalle edizioni di Bologna o dalla fiorentina, in diverse città d'Italia, essendo state senza concorso dell'autore, non hanno nulla di proprio. Nella presente sono aggiunti undici componimenti non più stampati, e gli altri riveduti dall'autore e ritocchi in più e più luoghi. Dei frammenti, i primi due sono già divulgati, gli altri non ancora. Le poche note poste appiè del volume, son cavate quasi tutte dalle edizioni precedenti.</p>
+                </div1>
+            </front>
+        <body>
+            <div>
+            <head>L'INFINITO.</head>
+                <lg type="poesia" n="11">
+                <l>Sempre caro mi fu quest'ermo colle,</l>
+                <l>E questa siepe, che da tanta parte</l>
+                <l>Dell'ultimo orizzonte il guardo esclude.</l>
+                <l>Ma sedendo e mirando, interminati</l>
+                <l>Spazi di là da quella, e sovrumani</l>
+                <l>Silenzi, e profondissima quiete</l>
+                <l>Io nel pensier mi fingo; ove per poco</l>
+                <l>Il cor non si spaura. E come il vento</l>
+                <l>Odo stormir tra queste piante, io quello</l>
+                <l>Infinito silenzio a questa voce</l>
+                <l>Vo comparando: e mi sovvien l'eterno,</l>
+                <l>E le morte stagioni, e la presente</l>
+                <l>E viva, e il suon di lei. Così tra questa</l>
+                <l>Immensità s'annega il pensier mio:</l>
+                <l>E il naufragar m'è dolce in questo mare.</l>
+                </lg>
+            </div>
+        </body>
+        </text>
+</TEI>

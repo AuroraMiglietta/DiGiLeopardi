@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mp:metadata
+    xmlns:mp="http://example.org/MyProject/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/">
+        <dc:title>Canti (ed. Napoli 1835)</dc:title>
+        <dc:creator xsi:type="dcterms:VIAF">Leopardi, Giacomo, 1798-1837.</dc:creator>
+        <dc:subject>Letteratura italiana, poesia</dc:subject>
+        <dc:subject xsi:type="dcterms:DDC">851.7</dc:subject>
+        <dc:subject>800</dc:subject>
+        <dc:description>Edizione digitale dei Canti realizzata a partire dall'edizione napoletana del 1835</dc:description>
+        <dc:publisher>Roma: Biblioteca Italiana</dc:publisher>
+        <dc:date xsi:type="dcterms:W3CDTF">2004</dc:date>
+        <dcterms:created xsi:type="dcterms:W3CDTF">2002-11-25</dcterms:created>
+        <dc:type xsi:type="dcterms:DCMIType">text</dc:type>
+        <dc:format xsi:type="dcterms:IMT">electronic</dc:format>
+        <dc:identifier xsi:type="SBN">IT\ICCU\UFI\0295804</dc:identifier>
+        <dc:language xsi:type="dcterms:ISO639-2">ita</dc:language>
+        <dc:coverage xsi:type="dcterms:TGN">Napoli</dc:coverage>
+        <dc:coverage xsi:type="dcterms:Period">1800</dc:coverage>
+        <dcterms:isVersionOf>Canti (ed.Firenze 1831)</dcterms:isVersionOf>
+        <dc:source>Leopardi, Giacomo. Tutte le opere - Roma: Lexis Progetti Editoriali, 1998</dc:source>
+        <dc:source xsi:type="SBN">IT\ICCU\UFI\0295804</dc:source>
+        <dc:rights>Questa risorsa digitale è liberamente accessibile per uso personale o scientifico. Ogni uso commerciale è vietato</dc:rights>
+        <dcterms:rightsholder>Biblioteca Italiana</dcterms:rightsholder>
+</mp:metadata>
